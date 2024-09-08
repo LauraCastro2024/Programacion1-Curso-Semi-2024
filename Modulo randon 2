@@ -1,0 +1,5 @@
+# Importamos el módulo "randon" que nos permite generar números aleatorios.
+import random
+
+# Se imprime el resultado
+print(random.randint(1, 100)) # "randint" devuelve un número entero incluido el 1 y el 100. 
